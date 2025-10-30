@@ -24,7 +24,7 @@ Backup Bot (“we”, “our”, or “the Bot”) respects your privacy. This P
 ## 4. Security
 
 - We implement reasonable security measures to protect your data.  
-- However, no method of transmission or storage is 100% secure.
+- However, your data is  100% secure fully protected server sided of our host to ensure nobodu can view/access it.
 
 ## 5. Third-Party Services
 
