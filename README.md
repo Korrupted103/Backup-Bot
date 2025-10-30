@@ -1,6 +1,6 @@
 # Privacy Policy for Backup Bot
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [30/10/25]
 
 Backup Bot (“we”, “our”, or “the Bot”) respects your privacy. This Privacy Policy explains what data we collect, how it is used, and your rights.
 
